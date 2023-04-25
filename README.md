@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pranisa</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="left">Hi 👋, I'm Pranisa</h1>
+<h3 align="left">Frontend Developer</h3>
 
-- 🌱 I’m currently studying **Frontend Developer**
 
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **pranisa.projects@gmail.com**
 
