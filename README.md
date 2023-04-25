@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Pranisa</h1>
+<h1 align="left">Hi <img width="40" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">, I'm Pranisa.</h1>
 <h3 align="left">Frontend Developer</h3>
 
 
