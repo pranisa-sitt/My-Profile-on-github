@@ -3,7 +3,6 @@
 
 
 
-- 📫 How to reach me **pranisa.projects@gmail.com**
 
 - ⚡ Fun fact **Always Happy and being Positive**
 
